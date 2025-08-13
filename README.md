@@ -15,6 +15,6 @@ Manage your daily tasks directly from the terminal with features like adding, li
 ---
 
 ## 📸 Screenshot
-![Todo App Screenshot](./assets/ss-cli-app.png)
+![Todo App Screenshot](./assests/ss-cli-app.png)
 
 ---
